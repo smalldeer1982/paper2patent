@@ -1065,12 +1065,11 @@ Windsurf 可使用 `.windsurf/rules/paper2patent.md` 作为项目规则，并引
 
 本项目的 LICENSE 文件采用 [MIT License](LICENSE)。
 详细社区使用规范请参阅 [CLAUSE.md](CLAUSE.md)。
-
 ## Star History
-<a href="https://www.star-history.com/?repos=7toCR/paper2patent&type=date&legend=top-left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=7toCR/paper2patent&type=date&theme=dark&legend=top-left" />
-    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=7toCR/paper2patent&type=date&legend=top-left" />
-    <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=7toCR/paper2patent&type=date&legend=top-left" />
-  </picture>
+<a href="https://www.star-history.com/?repos=paper2patent%2Fpaper2patent&type=timeline&logscale=&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=paper2patent/paper2patent&type=timeline&theme=dark&logscale&legend=top-left&sealed_token=kgAvl3-wGLyL4WpyWhHEBeQ-3Gv5QMr3ibbMHkTnARKLzLgnHJRCNC6dii4sXwfXt7hTohPoB_CB4hHGBOxiCnFduAELs9-EhcFhc0fNCt6bIprwIV9Pr5hQ9Jut-OtLY06pPB0duiDL-EFgQpoIgJqVH6YMcIyn8J33WbhvcumLg4GRfo9TO_CwpgMl" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=paper2patent/paper2patent&type=timeline&logscale&legend=top-left&sealed_token=kgAvl3-wGLyL4WpyWhHEBeQ-3Gv5QMr3ibbMHkTnARKLzLgnHJRCNC6dii4sXwfXt7hTohPoB_CB4hHGBOxiCnFduAELs9-EhcFhc0fNCt6bIprwIV9Pr5hQ9Jut-OtLY06pPB0duiDL-EFgQpoIgJqVH6YMcIyn8J33WbhvcumLg4GRfo9TO_CwpgMl" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=paper2patent/paper2patent&type=timeline&logscale&legend=top-left&sealed_token=kgAvl3-wGLyL4WpyWhHEBeQ-3Gv5QMr3ibbMHkTnARKLzLgnHJRCNC6dii4sXwfXt7hTohPoB_CB4hHGBOxiCnFduAELs9-EhcFhc0fNCt6bIprwIV9Pr5hQ9Jut-OtLY06pPB0duiDL-EFgQpoIgJqVH6YMcIyn8J33WbhvcumLg4GRfo9TO_CwpgMl" />
+ </picture>
 </a>
